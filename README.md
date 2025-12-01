@@ -165,12 +165,9 @@ This system is a prototype. **Do not use outputs for autonomous clinical decisio
 
 ---
 
-# 🤝 Contributing
-
-Contributions, plugins, tools, and tests are welcome! Submit PRs or open issues.
 
 ---
 
-# 📄 License
+
 
 MIT License
